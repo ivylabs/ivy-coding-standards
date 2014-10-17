@@ -1,4 +1,6 @@
-ivy-coding-standards
+Ivy Coding Standards
 ====================
 
-Coding standards of Ivy Information Systems Ltd
+The coding standards of Ivy Information Systems Ltd  is based on the [Google style](https://code.google.com/p/google-styleguide/) with some tricks for make sure the developers write sexy code. :smiley_cat: 
+
+
